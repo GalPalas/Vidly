@@ -1,38 +1,42 @@
-## Available Scripts
+# Vidly
 
-In the project directory, you can run:
+This project demonstrates a website of a video rental library, it was built in React
 
-npm i
+## Steps to run this project:
 
-### `npm start`
+### 1.Download the project from GitaHub.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 2.Open vs code or any other editor, and add the project.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### 3.Open CLI and write the command "npm install" or in short "npm i", this command adds all the dependencies to the project.
 
-### `npm test`
+### 4.Open cmd and write the command "node seed.js", this command put all the data in mongodb.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](#running-tests) for more information.
+### 4.Open cmd and write the command "node index.js", this command runs the project.
 
-### `npm run build`
+### 5.Open cmd and and write "mongod".
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 7.Now write the command "npm start", to run the project.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Tools used to create this project:
 
-See the section about [deployment](#deployment) for more information.
+### 1.express.
+### 2.bcrypt.
+### 3.axios.
+### 4.mongoose
+### 5.Mongodb
+### 6.Postman
+### 7.config
+### 8.cors
+### 9.joi
+### 10.lodash
+### 11.express-async-errors
+### 12.winston
+### 13.jsonwebtoken
+### 14.bootstrap
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Languages
+### 1.HTML.
+### 2.css.
+### 3.JavaScript.
+### 3.NodeJS.
